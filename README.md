@@ -1,2 +1,2 @@
 # XssPowerByTools
-吐司xss平台课程设计
+xss平台课程设计
